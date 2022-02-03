@@ -1,0 +1,352 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Item_Container xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Consumables>
+    <Items xsi:type="Consumable">
+      <ItemType>Consumables</ItemType>
+      <Quality>Normal</Quality>
+      <SpriteNeutral>Consumables/HP_Potion</SpriteNeutral>
+      <SpriteHighlight>Consumables/HP_Potion</SpriteHighlight>
+      <MaxSize>10</MaxSize>
+      <ItemName>HP Potion</ItemName>
+      <ItemDesc>HP Potion</ItemDesc>
+      <Durability>1</Durability>
+      <Health>20</Health>
+    </Items>
+  </Consumables>
+  <Equipments>
+    <Items xsi:type="Equipment_Master">
+      <ItemType>Armor</ItemType>
+      <Quality>Epic</Quality>
+      <SpriteNeutral>Armors/Armor</SpriteNeutral>
+      <SpriteHighlight>Armors/Armor</SpriteHighlight>
+      <MaxSize>1</MaxSize>
+      <ItemName>Knight Armor</ItemName>
+      <ItemDesc>Knight Armor</ItemDesc>
+      <Durability>100</Durability>
+      <Def>35</Def>
+      <Equip_Durability>100</Equip_Durability>
+    </Items>
+    <Items xsi:type="Equipment_Master">
+      <ItemType>Shield</ItemType>
+      <Quality>Epic</Quality>
+      <SpriteNeutral>Shields/Shield</SpriteNeutral>
+      <SpriteHighlight>Shields/Shield</SpriteHighlight>
+      <MaxSize>1</MaxSize>
+      <ItemName>Knight Shield</ItemName>
+      <ItemDesc>Knight Shield</ItemDesc>
+      <Durability>100</Durability>
+      <Def>35</Def>
+      <Equip_Durability>100</Equip_Durability>
+    </Items>
+    <Items xsi:type="Equipment_Master">
+      <ItemType>Armor</ItemType>
+      <Quality>Rare</Quality>
+      <SpriteNeutral>Armors/Armor_1</SpriteNeutral>
+      <SpriteHighlight>Armors/Armor_1</SpriteHighlight>
+      <MaxSize>1</MaxSize>
+      <ItemName>Wooden Armor</ItemName>
+      <ItemDesc>Armor Made Of Wood</ItemDesc>
+      <Durability>100</Durability>
+      <Def>5</Def>
+      <Equip_Durability>100</Equip_Durability>
+    </Items>
+    <Items xsi:type="Equipment_Master">
+      <ItemType>Armor</ItemType>
+      <Quality>Rare</Quality>
+      <SpriteNeutral>Armors/Armor_2</SpriteNeutral>
+      <SpriteHighlight>Armors/Armor_2</SpriteHighlight>
+      <MaxSize>1</MaxSize>
+      <ItemName>Plate Wood Armor</ItemName>
+      <ItemDesc>Armor Made Of Better Wood</ItemDesc>
+      <Durability>100</Durability>
+      <Def>9</Def>
+      <Equip_Durability>100</Equip_Durability>
+    </Items>
+    <Items xsi:type="Equipment_Master">
+      <ItemType>Armor</ItemType>
+      <Quality>Rare</Quality>
+      <SpriteNeutral>Armors/Armor_3</SpriteNeutral>
+      <SpriteHighlight>Armors/Armor_3</SpriteHighlight>
+      <MaxSize>1</MaxSize>
+      <ItemName>Steel Armor</ItemName>
+      <ItemDesc>Armor Made Of Steel</ItemDesc>
+      <Durability>100</Durability>
+      <Def>14</Def>
+      <Equip_Durability>100</Equip_Durability>
+    </Items>
+    <Items xsi:type="Equipment_Master">
+      <ItemType>Armor</ItemType>
+      <Quality>Epic</Quality>
+      <SpriteNeutral>Armors/Armor_4</SpriteNeutral>
+      <SpriteHighlight>Armors/Armor_4</SpriteHighlight>
+      <MaxSize>1</MaxSize>
+      <ItemName>Rare Armor</ItemName>
+      <ItemDesc>A Rare Armor That`s Hard To Find</ItemDesc>
+      <Durability>100</Durability>
+      <Def>25</Def>
+      <Equip_Durability>100</Equip_Durability>
+    </Items>
+    <Items xsi:type="Equipment_Master">
+      <ItemType>Shield</ItemType>
+      <Quality>Rare</Quality>
+      <SpriteNeutral>Shields/Shield_1</SpriteNeutral>
+      <SpriteHighlight>Shields/Shield_1</SpriteHighlight>
+      <MaxSize>1</MaxSize>
+      <ItemName>Wooden Shield</ItemName>
+      <ItemDesc>A Normal Wooden Shield</ItemDesc>
+      <Durability>100</Durability>
+      <Def>3</Def>
+      <Equip_Durability>100</Equip_Durability>
+    </Items>
+    <Items xsi:type="Equipment_Master">
+      <ItemType>Shield</ItemType>
+      <Quality>Rare</Quality>
+      <SpriteNeutral>Shields/Shield_2</SpriteNeutral>
+      <SpriteHighlight>Shields/Shield_2</SpriteHighlight>
+      <MaxSize>1</MaxSize>
+      <ItemName>Normal Shield</ItemName>
+      <ItemDesc>A Normal Shield</ItemDesc>
+      <Durability>100</Durability>
+      <Def>6</Def>
+      <Equip_Durability>100</Equip_Durability>
+    </Items>
+    <Items xsi:type="Equipment_Master">
+      <ItemType>Shield</ItemType>
+      <Quality>Rare</Quality>
+      <SpriteNeutral>Shields/Shield_3</SpriteNeutral>
+      <SpriteHighlight>Shields/Shield_3</SpriteHighlight>
+      <MaxSize>1</MaxSize>
+      <ItemName>Steel Shield</ItemName>
+      <ItemDesc>Shield Made Of Steel</ItemDesc>
+      <Durability>100</Durability>
+      <Def>15</Def>
+      <Equip_Durability>100</Equip_Durability>
+    </Items>
+    <Items xsi:type="Equipment_Master">
+      <ItemType>Shield</ItemType>
+      <Quality>Epic</Quality>
+      <SpriteNeutral>Shields/Shield_4</SpriteNeutral>
+      <SpriteHighlight>Shields/Shield_4</SpriteHighlight>
+      <MaxSize>1</MaxSize>
+      <ItemName>Rare Shield</ItemName>
+      <ItemDesc>A Rare Shield That`s Hard To Find</ItemDesc>
+      <Durability>100</Durability>
+      <Def>27</Def>
+      <Equip_Durability>100</Equip_Durability>
+    </Items>
+  </Equipments>
+  <Weapons>
+    <Items xsi:type="Weapon">
+      <ItemType>Sword</ItemType>
+      <Quality>Rare</Quality>
+      <SpriteNeutral>Weapons/Sword</SpriteNeutral>
+      <SpriteHighlight>Weapons/Sword</SpriteHighlight>
+      <MaxSize>1</MaxSize>
+      <ItemName>Rare Sword</ItemName>
+      <ItemDesc>A Rare Sword</ItemDesc>
+      <Durability>100</Durability>
+      <Str>12</Str>
+      <Weapon_Durability>100</Weapon_Durability>
+    </Items>
+    <Items xsi:type="Weapon">
+      <ItemType>Sword</ItemType>
+      <Quality>Rare</Quality>
+      <SpriteNeutral>Weapons/Sword_1</SpriteNeutral>
+      <SpriteHighlight>Weapons/Sword_1</SpriteHighlight>
+      <MaxSize>1</MaxSize>
+      <ItemName>Decent Sword</ItemName>
+      <ItemDesc>Great For Slaying Monster</ItemDesc>
+      <Durability>100</Durability>
+      <Str>17</Str>
+      <Weapon_Durability>100</Weapon_Durability>
+    </Items>
+    <Items xsi:type="Weapon">
+      <ItemType>Sword</ItemType>
+      <Quality>Rare</Quality>
+      <SpriteNeutral>Weapons/Sword_2</SpriteNeutral>
+      <SpriteHighlight>Weapons/Sword_2</SpriteHighlight>
+      <MaxSize>1</MaxSize>
+      <ItemName>Bone Sword</ItemName>
+      <ItemDesc>Sword Made Of Orc Bone</ItemDesc>
+      <Durability>100</Durability>
+      <Str>15</Str>
+      <Weapon_Durability>100</Weapon_Durability>
+    </Items>
+    <Items xsi:type="Weapon">
+      <ItemType>Sword</ItemType>
+      <Quality>Rare</Quality>
+      <SpriteNeutral>Weapons/Sword_3</SpriteNeutral>
+      <SpriteHighlight>Weapons/Sword_3</SpriteHighlight>
+      <MaxSize>1</MaxSize>
+      <ItemName>Wooden Sword</ItemName>
+      <ItemDesc>Starter Sword</ItemDesc>
+      <Durability>100</Durability>
+      <Str>7</Str>
+      <Weapon_Durability>100</Weapon_Durability>
+    </Items>
+    <Items xsi:type="Weapon">
+      <ItemType>Sword</ItemType>
+      <Quality>Epic</Quality>
+      <SpriteNeutral>Weapons/Sword_4</SpriteNeutral>
+      <SpriteHighlight>Weapons/Sword_4</SpriteHighlight>
+      <MaxSize>1</MaxSize>
+      <ItemName>Machette</ItemName>
+      <ItemDesc>An Awesome Sword Made To Kill Orcs</ItemDesc>
+      <Durability>100</Durability>
+      <Str>35</Str>
+      <Weapon_Durability>100</Weapon_Durability>
+    </Items>
+  </Weapons>
+  <Materials>
+    <Items xsi:type="Materials">
+      <ItemType>Material</ItemType>
+      <Quality>Normal</Quality>
+      <SpriteNeutral>Materials/Apple</SpriteNeutral>
+      <SpriteHighlight>Materials/Apple</SpriteHighlight>
+      <MaxSize>20</MaxSize>
+      <ItemName>Apple</ItemName>
+      <ItemDesc>Item For Crafting</ItemDesc>
+      <Durability>1</Durability>
+    </Items>
+    <Items xsi:type="Materials">
+      <ItemType>Material</ItemType>
+      <Quality>Normal</Quality>
+      <SpriteNeutral>Materials/Bone</SpriteNeutral>
+      <SpriteHighlight>Materials/Bone</SpriteHighlight>
+      <MaxSize>99</MaxSize>
+      <ItemName>Bone</ItemName>
+      <ItemDesc>Bone Of Orc</ItemDesc>
+      <Durability>1</Durability>
+    </Items>
+    <Items xsi:type="Materials">
+      <ItemType>Material</ItemType>
+      <Quality>Epic</Quality>
+      <SpriteNeutral>Materials/Gold_Bar</SpriteNeutral>
+      <SpriteHighlight>Materials/Gold_Bar</SpriteHighlight>
+      <MaxSize>5</MaxSize>
+      <ItemName>Gold Bar</ItemName>
+      <ItemDesc>For Selling To Obtain More Golds Or Crafting</ItemDesc>
+      <Durability>1</Durability>
+    </Items>
+    <Items xsi:type="Materials">
+      <ItemType>Material</ItemType>
+      <Quality>Epic</Quality>
+      <SpriteNeutral>Materials/Golden_Horn</SpriteNeutral>
+      <SpriteHighlight>Materials/Golden_Horn</SpriteHighlight>
+      <MaxSize>1</MaxSize>
+      <ItemName>Golden Horn</ItemName>
+      <ItemDesc>Horn From Orc Necklace</ItemDesc>
+      <Durability>1</Durability>
+    </Items>
+    <Items xsi:type="Materials">
+      <ItemType>Material</ItemType>
+      <Quality>Normal</Quality>
+      <SpriteNeutral>Materials/Iron_Bar</SpriteNeutral>
+      <SpriteHighlight>Materials/Iron_Bar</SpriteHighlight>
+      <MaxSize>99</MaxSize>
+      <ItemName>Iron Bar</ItemName>
+      <ItemDesc>Used For Crafting</ItemDesc>
+      <Durability>1</Durability>
+    </Items>
+    <Items xsi:type="Materials">
+      <ItemType>Material</ItemType>
+      <Quality>Normal</Quality>
+      <SpriteNeutral>Materials/Iron_Pot</SpriteNeutral>
+      <SpriteHighlight>Materials/Iron_Pot</SpriteHighlight>
+      <MaxSize>99</MaxSize>
+      <ItemName>Iron Pot</ItemName>
+      <ItemDesc>Pot That Has Been Used For Orc Helmet</ItemDesc>
+      <Durability>1</Durability>
+    </Items>
+    <Items xsi:type="Materials">
+      <ItemType>Material</ItemType>
+      <Quality>Normal</Quality>
+      <SpriteNeutral>Materials/Slime_Gem</SpriteNeutral>
+      <SpriteHighlight>Materials/Slime_Gem</SpriteHighlight>
+      <MaxSize>99</MaxSize>
+      <ItemName>Slime Gem</ItemName>
+      <ItemDesc>Slime Precious Gem</ItemDesc>
+      <Durability>1</Durability>
+    </Items>
+    <Items xsi:type="Materials">
+      <ItemType>Material</ItemType>
+      <Quality>Normal</Quality>
+      <SpriteNeutral>Materials/Slime_Liquid</SpriteNeutral>
+      <SpriteHighlight>Materials/Slime_Liquid</SpriteHighlight>
+      <MaxSize>99</MaxSize>
+      <ItemName>Slime Liquid</ItemName>
+      <ItemDesc>Liquid Of Slime</ItemDesc>
+      <Durability>1</Durability>
+    </Items>
+    <Items xsi:type="Materials">
+      <ItemType>Material</ItemType>
+      <Quality>Normal</Quality>
+      <SpriteNeutral>Materials/Wolf_Fang</SpriteNeutral>
+      <SpriteHighlight>Materials/Wolf_Fang</SpriteHighlight>
+      <MaxSize>99</MaxSize>
+      <ItemName>Wolf Fang</ItemName>
+      <ItemDesc>Fang Of Wolf</ItemDesc>
+      <Durability>1</Durability>
+    </Items>
+    <Items xsi:type="Materials">
+      <ItemType>Material</ItemType>
+      <Quality>Normal</Quality>
+      <SpriteNeutral>Materials/Wolf_Skin</SpriteNeutral>
+      <SpriteHighlight>Materials/Wolf_Skin</SpriteHighlight>
+      <MaxSize>99</MaxSize>
+      <ItemName>Wolf Skin</ItemName>
+      <ItemDesc>Skin Of Wolf</ItemDesc>
+      <Durability>1</Durability>
+    </Items>
+    <Items xsi:type="Materials">
+      <ItemType>Material</ItemType>
+      <Quality>Normal</Quality>
+      <SpriteNeutral>Materials/Wood</SpriteNeutral>
+      <SpriteHighlight>Materials/Wood</SpriteHighlight>
+      <MaxSize>99</MaxSize>
+      <ItemName>Wood</ItemName>
+      <ItemDesc>A Piece Of Wood</ItemDesc>
+      <Durability>1</Durability>
+    </Items>
+    <Items xsi:type="Materials">
+      <ItemType>Material</ItemType>
+      <Quality>Normal</Quality>
+      <SpriteNeutral>Materials/Corn_Seed</SpriteNeutral>
+      <SpriteHighlight>Materials/Corn_Seed</SpriteHighlight>
+      <MaxSize>99</MaxSize>
+      <ItemName>Corn Seed</ItemName>
+      <ItemDesc>Seed For Corn</ItemDesc>
+      <Durability>1</Durability>
+    </Items>
+    <Items xsi:type="Materials">
+      <ItemType>Material</ItemType>
+      <Quality>Normal</Quality>
+      <SpriteNeutral>Materials/Tomato_Seed</SpriteNeutral>
+      <SpriteHighlight>Materials/Tomato_Seed</SpriteHighlight>
+      <MaxSize>99</MaxSize>
+      <ItemName>Tomato Seed</ItemName>
+      <ItemDesc>Seed For Tomato</ItemDesc>
+      <Durability>1</Durability>
+    </Items>
+    <Items xsi:type="Materials">
+      <ItemType>Material</ItemType>
+      <Quality>Normal</Quality>
+      <SpriteNeutral>Materials/Tomato</SpriteNeutral>
+      <SpriteHighlight>Materials/Tomato</SpriteHighlight>
+      <MaxSize>99</MaxSize>
+      <ItemName>Tomato</ItemName>
+      <ItemDesc>A Normal Tomato</ItemDesc>
+      <Durability>1</Durability>
+    </Items>
+    <Items xsi:type="Materials">
+      <ItemType>Material</ItemType>
+      <Quality>Normal</Quality>
+      <SpriteNeutral>Materials/Corn</SpriteNeutral>
+      <SpriteHighlight>Materials/Corn</SpriteHighlight>
+      <MaxSize>99</MaxSize>
+      <ItemName>Corn</ItemName>
+      <ItemDesc>A Normal Corn</ItemDesc>
+      <Durability>1</Durability>
+    </Items>
+  </Materials>
+</Item_Container>

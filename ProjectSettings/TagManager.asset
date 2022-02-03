@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Player_Attack_Pos
+  - Blob
+  - Items
+  - Parent_Slot
+  - Parent_Equip_Slot
+  - Chest
+  - Parent_Chest_Slot
+  - Craft
+  - Vendor
+  - House
+  - Female_npc
+  - Boss
+  - Map_City
+  - Map_Field
+  - House_Vendor
+  - House_Craft
+  - Txt_Damage
+  - Farm_1
+  - Cactus
+  - Map_Boss
+  - Posion_Path
+  - Sign
+  - Txt_Damage_Enemy
+  - NPC
+  - Bed
+  - Online
+  - Online_Sell
+  - Upgrade
+  - Farm_NPC
+  - Save
+  - Portal_Boss
+  - Tutorial_2
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
